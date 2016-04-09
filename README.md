@@ -4,4 +4,5 @@
 1. [群规](./GroupRole.md)
 2. [成员退群记录](./ExitCount.md)
 3. [黑名单](./BlackList.md)
+4. [黑名单观察期](./BlackWatch.md)
 
